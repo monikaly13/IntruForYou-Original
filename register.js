@@ -29,7 +29,7 @@ function register(){
         }
         obj_users.push(user);
         localStorage.setItem("users", JSON.stringify(obj_users));
-        window.open('../HTML/login.html',"_self");
+        window.open('login.html',"_self");
 
     }
 }
@@ -59,7 +59,7 @@ function login(){
             else{
                 notifyMessage("Login Succesfully", "green")
                 localStorage.setItem("currentUser",JSON.stringify(obj_users[i]));
-                window.open('../HTML/index.html',"_self");
+                window.open('index.html',"_self");
             }
         }  
     }

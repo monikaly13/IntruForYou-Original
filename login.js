@@ -13,7 +13,7 @@ function login(){
             notifyMessage("Wrong Password!", "red");
             }
             else{
-                window.open('../HTML/index.html',"_self");
+                window.open('index.html',"_self");
             }
         }  
     }
