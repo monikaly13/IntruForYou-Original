@@ -268,19 +268,19 @@
 
       }
       #Chhengly{
-          background-image: url('../image/chhenglee.jpg');
+          background-image: url('./image/chhenglee.jpg');
         }
         #Run{
-          background-image: url('../image/runPic.jpg');
+          background-image: url('./image/runPic.jpg');
 
 
       }
       #Monika{
-          background-image: url('../image/monikaPic.jpg');
+          background-image: url('./image/monikaPic.jpg');
 
         }
         #Dalis{
-          background-image: url('../image/DalisPic.jpg');
+          background-image: url('./image/DalisPic.jpg');
         }
 
         .footer{

@@ -46,7 +46,7 @@
     width: 0;
 }
 .image1{
-    background-image:linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url("../image/hall1.jpg");
+    background-image:linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url("./image/hall1.jpg");
     background-position: center;
     background-size: cover;
     position: relative;
@@ -208,7 +208,7 @@ button a{
   box-sizing: border-box;
   cursor: pointer;
   margin: 10px 15px;
-  background-image: url("../image/guitarpng1.png");
+  background-image: url("./image/guitarpng1.png");
   background-position: center;
   background-size: cover;
   transition: transform 0.5;
@@ -229,7 +229,7 @@ button a{
   box-sizing: border-box;
   cursor: pointer;
   margin: 10px 15px;
-  background-image: url("../image/bow.png");
+  background-image: url("./image/bow.png");
   background-position: center;
   background-size: cover;
   transition: transform 0.5;
@@ -249,7 +249,7 @@ button a{
   box-sizing: border-box;
   cursor: pointer;
   margin: 10px 15px;
-  background-image: url("../image/violinpng1.png");
+  background-image: url("./image/violinpng1.png");
   background-position: center;
   background-size: cover;
   transition: transform 0.5;
@@ -270,7 +270,7 @@ button a{
   box-sizing: border-box;
   cursor: pointer;
   margin: 10px 15px;
-  background-image: url("../image/ukulelepng1.png");
+  background-image: url("./image/ukulelepng1.png");
   background-position: center;
   background-size: cover;
   transition: transform 0.5; 
@@ -291,7 +291,7 @@ button a{
   box-sizing: border-box;
   cursor: pointer;
   margin: 10px 15px;
-  background-image: url("../image/capopng1.png");
+  background-image: url("./image/capopng1.png");
   background-position: center;
   background-size: cover;
   transition: transform 0.5; 
